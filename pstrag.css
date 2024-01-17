@@ -1,0 +1,24 @@
+img{
+    width: 7cm;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color:#01A775 ;
+    font-family: Arial;
+}
+
+body{
+    background-color: #DAF7A6
+}
+
+div.latinname{
+    margin-top: -4mm;
+    color: navy;
+    text-align: center;
+    font-style: italic;
+} 
